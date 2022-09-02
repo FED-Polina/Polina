@@ -1,0 +1,15 @@
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\RekursivnieVirajenia.csproj.AssemblyReference.cache
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\RekursivnieVirajenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\RekursivnieVirajenia.AssemblyInfoInputs.cache
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\RekursivnieVirajenia.AssemblyInfo.cs
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\RekursivnieVirajenia.csproj.CoreCompileInputs.cache
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\bin\Debug\net6.0\RekursivnieVirajenia.exe
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\bin\Debug\net6.0\RekursivnieVirajenia.deps.json
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\bin\Debug\net6.0\RekursivnieVirajenia.runtimeconfig.json
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\bin\Debug\net6.0\RekursivnieVirajenia.dll
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\bin\Debug\net6.0\RekursivnieVirajenia.pdb
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\RekursivnieVirajenia.dll
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\refint\RekursivnieVirajenia.dll
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\RekursivnieVirajenia.pdb
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\RekursivnieVirajenia.genruntimeconfig.cache
+C:\Users\FEDPo\Documents\RekursivnieVirajenia\RekursivnieVirajenia\obj\Debug\net6.0\ref\RekursivnieVirajenia.dll
